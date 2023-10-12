@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with cs1200
 - 💬 Ask me about cs1200
 - 📫 How to reach me: email on cs1200
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/himfdf
 - ⚡ Fun fact: i take cs1200
 -->
